@@ -1,0 +1,10 @@
+# secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+
+# slides
+Claude outputs/
+*.pptx

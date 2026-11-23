@@ -1,0 +1,12 @@
+[project]
+name = "rag-debugging"
+version = "0.1.0"
+description = "Why does my RAG app give wrong answers? Five common failures and their fixes."
+requires-python = ">=3.10"
+dependencies = [
+    "groq",
+    "pdfplumber",
+    "python-dotenv",
+    "qdrant-client",
+    "sentence-transformers",
+]
